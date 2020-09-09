@@ -1,2 +1,5 @@
 # Bootcamp2020
-Nancy Depinfo
+Nancy Depinf
+figure
+td1
+o
